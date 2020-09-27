@@ -18,7 +18,7 @@ PFX U   0     un       .
 PFX V Y 1
 PFX V   0     ver      .
 
-SFX F Y 35
+SFX F Y 17
 SFX F   0     nen        in
 SFX F   e     in         e
 SFX F   e     innen      e
@@ -36,26 +36,7 @@ SFX F   0     in         ierer
 SFX F   0     innen      ierer
 SFX F   er    in         [^i]erer
 SFX F   er    innen      [^i]erer
-SFX F   in    In         in
-SFX F   in    Innen      in
-SFX F   e     In         e
-SFX F   e     Innen      e
-SFX F   0     In         [^i]n
-SFX F   0     Innen      [^i]n
-SFX F   0     In         [^en]
-SFX F   0     Innen      [^en]
-SFX F   0     In         [^e]r
-SFX F   0     Innen      [^e]r
-SFX F   0     In         [^r]er
-SFX F   0     Innen      [^r]er
-SFX F   0     In         [^e]rer
-SFX F   0     Innen      [^e]rer
-SFX F   0     In         ierer
-SFX F   0     Innen      ierer
-SFX F   er    In         [^i]erer
-SFX F   er    Innen      [^i]erer
 #SFX F   en    innen        en
-#SFX F   en    Innen        en
 
 
 SFX L N 12
@@ -610,19 +591,13 @@ SFX j 0 -/cz .
 
 # Female forms for compound/Compound words:
 # attention: [^e][^n] does also filter out "...er" !
-SFX g Y 12
+SFX g Y 6
 SFX g 0  innen/xyoc [^n]
 SFX g en innen/xyoc en
-SFX g 0  Innen/xyoc [^n]
-SFX g en Innen/xyoc en
 SFX g 0  innen/xyocf [^n]
 SFX g en innen/xyocf en
-SFX g 0  Innen/xyocf [^n]
-SFX g en Innen/xyocf en
 SFX g 0  innen-/cz [^n]
 SFX g en innen-/cz en
-SFX g 0  Innen-/cz [^n]
-SFX g en Innen-/cz en
 
 
 PFX k Y 2
