@@ -83,9 +83,15 @@ SFX L   0       lichen     [^n]
 #SFX K   0       keiten     .
 
 
-SFX M N 10
+SFX M N 16
 SFX M   0       chen       [^se]
 SFX M   0       chens      [^se]
+SFX M   aß      ässchen    aß
+SFX M   aß      ässchens   aß
+SFX M   oß      össchen    oß
+SFX M   oß      össchens   oß
+SFX M   uß      üsschen    uß
+SFX M   uß      üsschens   uß
 SFX M   ass     ässchen    ass
 SFX M   ass     ässchens   ass
 SFX M   oss     össchen    oss
@@ -248,7 +254,8 @@ SFX C   erig    rigstem    [^hi]erig
 SFX C   erig    rigstes    [^hi]erig
 
 
-SFX E Y 1
+SFX E Y 2
+SFX E   ß       sse        ß
 SFX E   0       e          .
 
 
@@ -267,7 +274,7 @@ SFX P Y 1
 SFX P   0       en         .
 
 
-SFX p Y 26
+SFX p Y 32
 SFX p   auf     äufe      auf
 SFX p   auf     äufen     auf
 SFX p   aus     äuser     [hH]aus
@@ -288,13 +295,19 @@ SFX p   ug      üge       ug
 SFX p   ug      ügen      ug
 SFX p   all     älle      all
 SFX p   all     ällen     all
+SFX p   aß      ässe      aß
+SFX p   aß      ässen     aß
+SFX p   uß      üsse      uß
+SFX p   uß      üssen     uß
+SFX p   oß      össe      oß
+SFX p   oß      össen     oß
 SFX p   ass     ässe      ass
 SFX p   ass     ässen     ass
 SFX p   uss     üsse      uss
 SFX p   uss     üssen     uss
 SFX p   oss     össe      oss
 SFX p   oss     össen     oss
-# last ...oss rules are for swiss de_CH only - but do not affect de_DE
+# last ...ss rules are for swiss de_CH only - but do not affect de_DE
 
 
 SFX R Y 3
@@ -457,7 +470,7 @@ SFX Y   n       ten        [^aäehilmnoöuür][mn]en
 SFX Y   en      ten        [aäeilmnoöuür][mn]en
 
 
-SFX Z Y 15
+SFX Z Y 17
 SFX Z   0       st         [^hßsz]
 SFX Z   0       st         [^c]h
 SFX Z   0       st         [^s]ch
@@ -465,6 +478,7 @@ SFX Z   0       est        [dfkstz]
 SFX Z   0       est        ch
 SFX Z   0       est        [au]ß
 SFX Z   0       est        ieß
+SFX Z   ß       ssest      [io]ß
 SFX Z   0       est        [io]ss
 SFX Z   0       t          [^dt]
 SFX Z   0       et         [dt]
@@ -472,6 +486,7 @@ SFX Z   0       n          e
 SFX Z   0       en         ie
 SFX Z   0       en         [^e]
 SFX Z   0       est        iess
+SFX Z   ß       ssest      [au]ß
 SFX Z   0       est        [au]ss
 # last two ...ss rules only used for swiss de_CH - but de_DE is unaffected
 
