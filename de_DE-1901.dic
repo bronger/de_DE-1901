@@ -1,4 +1,4 @@
-75591
+75370
 	This is the dictionary file of the de_DE-1901 Hunspell dictionary
 	derived from the igerman98 dictionary
 	
@@ -663,7 +663,6 @@ Afrikaner/FNSm
 Afroamerikaner/NSFm
 Afrolook/Sm
 After/Smij
-Aftershave/Sm
 Agadir/Sm
 Agave/Nm
 Agenda/m
@@ -801,7 +800,7 @@ Albinismus/m
 Albino/Sm
 Albion/S
 Albrecht/S
-Albtraum/STpm
+Alptraum/STpm
 Album/Sm
 Alcatel/S
 Alchemie/m
@@ -851,6 +850,7 @@ Allee/Nmij
 Allegorie/Nm
 Allein/hij
 Alleinbesitz/EPTm
+alleinseligmachend/A
 Alleinvertretungsanbefugnis/qm
 Allergie/Nm
 Allergiker/NSFm
@@ -1818,7 +1818,7 @@ Aufpreis/EPTm
 Aufputsch/hij
 Aufputz/Tm
 Aufräumarbeit/Pm
-Aufrauen/SJm
+Aufrauhen/SJm
 Aufrechnen/SJm
 Aufrechterhalten/SJm
 Aufrechtstehen/Sm
@@ -3237,7 +3237,6 @@ Biathlet/PFm
 Biathlon/Sm
 Bibel/Nmij
 Biber/NSmij
-Bibliografie/Nm
 Bibliographie/Nm
 Bibliothek/Pm
 Bibliothekar/EPSFm
@@ -3305,8 +3304,6 @@ Binsenweisheit/Pm
 Bio/hij
 Biochemie/m
 Biochemiker/FNSm
-Biograf/PFm
-Biografie/Nm
 Biograph/PFm
 Biographie/Nm
 Biologe/FNm
@@ -3371,7 +3368,6 @@ Blässe/m
 Bläßhuhn/Sm
 Blättchen/Sm
 Blätter/Nmij
-Blackbox/Pm
 Blackjack/m
 Blacklist/Sm
 Blackout/Sm
@@ -3908,7 +3904,7 @@ Busch/TSmij
 Busen/Smij
 Busgeld/dhij
 Bush/S
-Business/ijm
+Busineß/ijm
 Busmaster/Sm
 Bussard/EPSm
 Butan/Sm
@@ -4117,8 +4113,6 @@ Chomsky/S
 Chopin/S
 Chor/STmij
 Choral/Sm
-Choreograf/FPm
-Choreografie/Nm
 Choreograph/FPm
 Choreographie/Nm
 Chorist/PFm
@@ -4533,8 +4527,6 @@ Delaware/m
 Delegation/Pm
 Delegations/hij
 Delegierten/ghij
-Delfin/ESPm
-Delfinschwimmer/SNFm
 Delhi/Sm
 Delikatesse/Nm
 Delikatessengeschäft/PSETm
@@ -4565,8 +4557,6 @@ Demilitarisieren/SJ
 Demission/Pm
 Demo/Sijm
 Demobilisieren/SJm
-Demograf/PFm
-Demografie/Nm
 Demograph/PFm
 Demographie/Nm
 Demokrat/PFm
@@ -4750,7 +4740,6 @@ Dienst/SEPTmij
 Dienstälteste/Nm
 Dienstältester/m
 Dienstag/EPTmij
-Dienstagmorgen/m
 Dienstags/hij
 Dienstbarkeit/m
 Diensteanbieter/NSm
@@ -4855,7 +4844,6 @@ Disharmonie/Nm
 Disjunktion/Pm
 Diskette/Nm
 Disketten/hij
-Diskografie/Nm
 Diskographie/Nm
 Diskont/SEPmij
 Diskontinuität/Pm
@@ -4974,7 +4962,6 @@ Donauwalzer/m
 Donner/Smij
 Donnergang/m
 Donnerstag/EPTSmij
-Donnerstagmorgen/m
 Donnerstags/hij
 Doping/Smij
 Doppel/Smij
@@ -5081,7 +5068,7 @@ Dreschflegel/NSm
 Dreschgut/STm
 Dresden/Sm
 Dresdner/SNFm
-Dress/TEm
+Dreß/TEm
 Dresseur/EPSFm
 Dressman/m
 Dressur/Pmij
@@ -6424,7 +6411,6 @@ Ethernetadapter/m
 Ethik/Pmij
 Ethiker/NSFm
 Ethnie/Nm
-Ethnografie/m
 Ethnograph/Pm
 Ethnographie/m
 Ethnologe/NFm
@@ -6529,7 +6515,6 @@ Exhumieren/SJm
 Exil/EPSmij
 Existentialismus/m
 Existenz/Pmij
-Existenzialismus/m
 Exitcode/Sm
 Exkaiser/NSFm
 Exkanzler/SNFm
@@ -6723,9 +6708,6 @@ Fang/STpmij
 Fangemeinde/m
 Fango/m
 Fangopackung/Pm
-Fantasie/Nm
-Fantasieprojekte/m
-Fantast/PFm
 Faraday/S
 Farb/hij
 Farbe/Nm
@@ -7206,6 +7188,7 @@ Flyer/SNm
 Föderalismus/m
 Föderation/Pm
 Föhn/Sm
+Fön/Sm
 Föhneinbruch/STm
 Föhre/Nm
 Föhrengehölz/m
@@ -7255,7 +7238,6 @@ Fondsvermögen/Sm
 Fondsverwaltung/Pm
 Fondswerte/m
 Fondue/Sm
-Fonografie/m
 Fontäne/Nm
 Fontainebleau/m
 Fopperei/Pm
@@ -7335,7 +7317,6 @@ Fossilien/m
 Foto/Smij
 Fotograf/PFm
 Fotografie/Nm
-Fotovoltaik/m
 Fotze/Nnm
 Fotzen/hij
 Foul/Sm
@@ -7435,7 +7416,6 @@ Freising/Sm
 Freisprechen/SJm
 Freistilringen/Sm
 Freitag/EPmij
-Freitagmorgen/Sm
 Freitags/hij
 Freitod/TEPSm
 Freiwilligen/hij
@@ -7496,7 +7476,7 @@ Fristenmodell/EPSm
 Fristsetzung/m
 Fristverlängerung/Pm
 Frisur/Pm
-Fritteuse/Nm
+Friteuse/Nm
 Fritz
 Frl.
 Fröhlichkeit/m
@@ -7668,7 +7648,7 @@ GPL
 GPS
 GUS
 Gähnens/m
-Gämse/Nm
+Gemse/Nm
 Gängelband/STm
 Gängelei/Pm
 Gängeln/SJm
@@ -8154,8 +8134,6 @@ Genugtuung/Pm
 Genus/m
 Genuß/Tpmij
 Geodäsie
-Geograf/PFm
-Geografie/ijm
 Geograph/PFm
 Geographie/ijm
 Geoinformatik/m
@@ -8489,7 +8467,6 @@ Gilde/Nm
 Gildenplatz/Tm
 Gina/S
 Ginkgo/Sm
-Ginko/m
 Gipfel/NSmij
 Gips/ijm
 Gipser/NSFm
@@ -8674,10 +8651,10 @@ Gräberfriedhof/m
 Gräfin/Fm
 Gräser/Nm
 Gräte/Nm
-Gräuel/NSm
-Gräuelmärchen/m
-Gräuelmeldung/Pm
-Gräueltat/Pm
+Greuel/NSm
+Greuelmärchen/m
+Greuelmeldung/Pm
+Greueltat/Pm
 Grab/JSTmij
 Graben/Smij
 Grabenräumlöffel/m
@@ -8698,7 +8675,6 @@ Graffiti/m
 Grafik/Pmij
 Grafiker/FNSm
 Grafikprozessor/PSm
-Grafit/SEPm
 Grafologe/NFm
 Grafschaft/Pm
 Gral/Snm
@@ -9669,7 +9645,6 @@ Hollywoodstar/Sm
 Hollywoodzauber/m
 Holm/EPSm
 Holocaust/Sm
-Holografie/m
 Hologramm/EPSm
 Holographie/m
 Holstein/Sm
@@ -10578,7 +10553,6 @@ Jogger/NSFm
 Jogging/Sm
 Jogginghose/Nm
 Joghurt/Smij
-Jogurt/Sm
 Johann/TS
 Johannesburg/Sm
 Johannesevangelium/m
@@ -10715,7 +10689,7 @@ Kämmerei/m
 Kämmerer/NSm
 Kämpfe/Nm
 Kämpfer/FNSm
-Känguru/Sm
+Känguruh/Sm
 Käppchen/Sm
 Käppchenträgern/m
 Kärnten/Sm
@@ -10819,8 +10793,6 @@ Kalkulation/Pm
 Kalkulations/hij
 Kalkulator/PSm
 Kalkutta/Sm
-Kalligraf/PFm
-Kalligrafie/m
 Kalligraph/PFm
 Kalligraphie/m
 Kalorie/Nm
@@ -10905,7 +10877,6 @@ Kanuregatta/m
 Kanute/Nm
 Kanuverband/TSm
 Kanzel/Nm
-Kanzelparagraf/Pm
 Kanzelparagraph/Pm
 Kanzlei/Pmij
 Kanzler/NSFmgij
@@ -10972,7 +10943,6 @@ Kardinalskollegium/m
 Kardinalsstand/m
 Kardinaltugend/Pm
 Kardinalzahl/Pm
-Kardiograf/Pm
 Kardiogramm/STm
 Kardiograph/Pm
 Kardiologe/NFm
@@ -11027,8 +10997,6 @@ Karthum
 Kartieren/SJm
 Kartoffel/Nmij
 Kartoffelschälen/Sm
-Kartograf/PFm
-Kartografie/m
 Kartograph/PFm
 Kartographie/m
 Karton/Smij
@@ -11228,8 +11196,6 @@ Kernel/Sm
 Kernelektron/PSm
 Kernelversion/Pm
 Kernspinresonanz/m
-Kernspintomograf/Pm
-Kernspintomografie/m
 Kernspintomogramm/SEPm
 Kernspintomograph/Pm
 Kernspintomographie/m
@@ -11240,7 +11206,6 @@ Kerze/NMm
 Kerzen/hij
 Kessel/NSMmij
 Ketchup/Sm
-Ketschup/Sm
 Kette/NMm
 Ketten/hij
 Ketzer/FNSmgij
@@ -12140,7 +12105,7 @@ Kosovo/Sm
 Kost/m
 Kostbarkeit/Pm
 Kosten/ijm
-Kostensenkungspotenzial/Sm
+Kostensenkungspotential/Sm
 Kostgänger/NSFm
 Kostprobe/Nm
 Kostüm/EPSmij
@@ -12188,7 +12153,6 @@ Krankenhaustagegeld/m
 Krankenhaustagegeldversicherung/Pm
 Krankheit/Pm
 Krankheits/hij
-Krankschreiben/SJm
 Kranz/Tmij
 Krater/NSm
 Kratzer/NSm
@@ -12327,7 +12291,6 @@ Kruste/Nm
 Krustentier/m
 Krux
 Kruzifix/EPTm
-Kryptografie/ijm
 Kryptographie/ijm
 Kübel/NMSm
 Küche/Nm
@@ -13036,7 +12999,6 @@ Literatur/ijm
 Litfaßsäule/Nm
 Lithium/m
 Lithiumbatterie/Nm
-Lithografie/Nm
 Lithographie/Nm
 Litowsk/m
 Liturgie/m
@@ -13315,6 +13277,7 @@ Madonnenbild/STRm
 Madrid/Sm
 Maestro
 Mafia/m
+Maffia/m
 Mafiosi/m
 Mafioso/m
 Magazin/EPSm
@@ -14353,7 +14316,6 @@ Monsunregen/Sm
 Mont/Em
 Montag/EPmij
 Montage/hij
-Montagmorgen/m
 Montags/hij
 Montan/hij
 Montblanc/Sm
@@ -14373,7 +14335,7 @@ Moosgummi/Sm
 Mooshaus/Tpm
 Moped/Sm
 Mopedmotor/SPm
-Mopp/Sm
+Mop/Sm
 Mops/Pm
 Moräne/Nm
 Moränen/hij
@@ -15521,8 +15483,6 @@ Ort/STEm
 Orten/SJm
 Orthodoxie/Nm
 Orthogonalität/m
-Orthografie/Nm
-Orthografiefehler/SNm
 Orthographie/Nm
 Orthographiefehler/SNm
 Orthonormalsystem/SEPm
@@ -15696,7 +15656,6 @@ Panpsychismus/m
 Panscher/NSFm
 Panscherei/Pm
 Panslawismus/m
-Panter/Sm
 Panther/Sm
 Pantoffel/NSm
 Pantoffelheld/Pm
@@ -15721,7 +15680,6 @@ Pappenfabrik/m
 Pappenheimer/Nm
 Pappenstiel/m
 Pappmaché/Sm
-Pappmaschee/Sm
 Paprika/ijm
 Papst/Tmij
 Papsttum/Sm
@@ -15742,8 +15700,6 @@ Paradigmenwechsel/Sm
 Paradoxie/Nm
 Paradoxon/Sm
 Paraffin/EPSm
-Paragraf/Pm
-Paragrafenreiter/NSm
 Paragraph/Pm
 Paragraphenreiter/NSm
 Paraguay/Sm
@@ -16149,6 +16105,7 @@ Phalanx/m
 Phantasie/Nm
 Phantasiebild/STRm
 Phantasiefigur/m
+Phantasieprojekte/m
 Phantasieuniform/m
 Phantast/Pm
 Phantasterei/Pm
@@ -16352,7 +16309,7 @@ Plantage/Nm
 Plantageanteile/m
 Plantagenarbeiter/FNSm
 Plantagengesellschaften/m
-Plantschbecken/Sm
+Planschbecken/Sm
 Planungs/hij
 Planwagen/m
 Planwirtschaft/m
@@ -16380,8 +16337,8 @@ Plattfuß/Tpm
 Plattitüde/Nm
 Platz/Tmij
 Platzanweiser/FNSm
-Platzieren/SJm
-Platzierungs/hij
+Plazieren/SJm
+Plazierungs/hij
 Platzvormerkung/m
 Plauderei/Pm
 Plausch/Tm
@@ -16551,7 +16508,6 @@ Populist/PFm
 Pore/Nm
 Poren/hij
 Porno/Smnij
-Pornografie/Nm
 Pornographie/Nm
 Porsche/S
 Port/Sm
@@ -16571,7 +16527,7 @@ Portierungsaufwand/STm
 Portion/Pm
 Portionieren/SJm
 Portland/Sm
-Portmonee/Sm
+Portemonnaie/Sm
 Porto/Sm
 Portogebühren/m
 Portokosten/m
@@ -16610,20 +16566,17 @@ Poststadion/Pm
 Postulat/EPSTm
 Potentat/Pm
 Potential/EPSm
+Potentialbarriere/Nm
 Potentialfreiheit/m
+Potentialtopf/m
 Potentialtrennung/m
+Potentialverlauf/pm
 Potentiometer/NSm
 Potentiometerauswertung/m
 Potentiometerspannung/Pm
 Potentiometerstellung/m
 Potentiometerwert/m
 Potenz/Pmij
-Potenzial/ESPm
-Potenzialbarriere/Nm
-Potenzialfreiheit/m
-Potenzialtopf/m
-Potenzialtrennung/m
-Potenzialverlauf/pm
 Potenzieren/SJm
 Poti/S
 Potpourri/Sm
@@ -17079,7 +17032,7 @@ Python/m
 Quäker/NSFm
 Quäler/NSFm
 Quälerei/m
-Quäntchen/Sm
+Quentchen/Sm
 Quacksalber/SNFm
 Quader/SNm
 Quadrant/Pm
@@ -17248,7 +17201,6 @@ Radikalkette/Nm
 Radikalkur/m
 Radio/Smij
 Radiodurchsage/Nm
-Radiografie/Nm
 Radiogramm/EPSm
 Radiographie/Nm
 Radiologe/NFm
@@ -17351,10 +17303,10 @@ Rauch/STmij
 Raucher/NSFmgij
 Raucherhusten/m
 Raudi/m
-Raufasertapete/Nm
-Rauhaardackel/NSm
+Rauhfasertapete/Nm
+Rauhhaardackel/NSm
 Rauheit/Pm
-Rauigkeit/Pm
+Rauhigkeit/Pm
 Raum/STEpmij
 Raupe/Nm
 Raupenansteuerung/m
@@ -17363,7 +17315,7 @@ Raupenfahrwerk/m
 Raupenfahrzeug/ETSPm
 Raupenkette/Nm
 Raupensteuerung/m
-Raureif/STm
+Rauhreif/STm
 Rausch/ijm
 Rauschen/Sm
 Rauschpegel/Sm
@@ -18314,7 +18266,6 @@ Sample/Sm
 Samplermodul/m
 Samson/S
 Samstag/EPmij
-Samstagmorgen/m
 Samstags/hij
 Samsung/S
 Samt/STm
@@ -18412,7 +18363,6 @@ Sauseschritt/m
 Sausewind/STm
 Saustall/Spm
 Savanne/Nm
-Saxofon/ESm
 Saxophon/EPSm
 Scampi
 Scandium/Sm
@@ -19315,7 +19265,6 @@ Schwundregelung/Pm
 Schwung/STmij
 Schwur/Sm
 Schwurgericht/PSm
-Sciencefiction/m
 Scientology/S
 Screenshot/Sm
 Seagate/S
@@ -19379,7 +19328,6 @@ Seilschaft/Pm
 Seilzugpoti/m
 Seim/EPSm
 Sein/Sm
-Seismograf/Pm
 Seismograph/Pm
 Seite/Nm
 Seiten/hij
@@ -19409,7 +19357,6 @@ Selbst/hij
 Selbständige/RNm
 Selbständigkeit/m
 Selbstbehalt/EPSTm
-Selbstständigkeit/m
 Selbstverpflichtungserklärung/Pm
 Selbstwählbetrieb/EPSTm
 Selektion/Pm
@@ -19487,7 +19434,6 @@ Separatismus/m
 Separatist/PFm
 Separatistenbewegung/m
 Separator/SPm
-Separee/Sm
 Sepp/S
 Seppel/m
 Sept.
@@ -19539,7 +19485,6 @@ Seufzer/NSm
 Seufzerbrücke/m
 Severin/S
 Sex/Tm
-Sexappeal/Sm
 Sexarbeiter/NSFm
 Sexismen/m
 Sexismus/m
@@ -19572,7 +19517,7 @@ Shorts/m
 Shortstory/Sm
 Show/Sm
 Showbühne/Nm
-Showbusiness/m
+Showbusineß/m
 Showdown/Sm
 Shrimp/Sm
 Sibirien/Sm
@@ -19588,7 +19533,6 @@ Sichtbarkeit/m
 Sichtbarmachen/SJm
 Sichten/SJ
 Sichverselbständigen/Sm
-Sichverselbstständigen/Sm
 Sickergrube/Nm
 Sickerwasser/Sm
 Sieb/EPSTm
@@ -19906,7 +19850,6 @@ Sonnabendvormittag/m
 Sonne/Nm
 Sonnen/hij
 Sonntag/PEmij
-Sonntagmorgen/m
 Sonntags/hij
 Sonntagsruhe/Nm
 Sonnwendfeier/m
@@ -19982,7 +19925,6 @@ Spätling/ESPm
 Spätzle/m
 Spachtel/Smij
 Spagat/EPSm
-Spagetti/m
 Spaghetti/m
 Spalier/EPSm
 Spalierbaum/STpm
@@ -20260,7 +20202,7 @@ Ständeorganisation/Pm
 Ständer/NSm
 Ständerat/Sm
 Ständewesen/Sm
-Stängel/NSm
+Stengel/NSm
 Stänker/Sm
 Stänkerei/Pm
 Stärke/m
@@ -20451,7 +20393,6 @@ Stefanie/S
 Steffen/S
 Steffi/S
 Steg/EPSTm
-Steganografie/m
 Steganographie/m
 Stegreif/Sm
 Steh/hij
@@ -20495,8 +20436,6 @@ Stellungsuchender/m
 Stemm/hij
 Stempel/SNmij
 Stenoblock/m
-Stenograf/FPm
-Stenografie/Nm
 Stenogramm/EPSm
 Stenograph/FPm
 Stenotypist/FPm
@@ -20857,7 +20796,7 @@ Stubenhocker/Sm
 Stubenkamerad/Pm
 Stubenmädchen/Sm
 Stuck/S
-Stuckateur/ESFm
+Stukkateur/ESFm
 Student/FPm
 Studenten/ghij
 Studentenschaft/Pm
@@ -21398,14 +21337,6 @@ Telefonieren/Sm
 Telefonierverhalten/Sm
 Telefonist/FPm
 Telefonmodem/m
-Telegraf/Pm
-Telegrafenämter/Nm
-Telegrafenamt/Tm
-Telegrafenanlage/Nm
-Telegrafenmast/TEm
-Telegrafenweg/m
-Telegrafie/m
-Telegrafieprüfung/m
 Telegramm/EPSm
 Telegrammanschrift/Pm
 Telegrammformate/m
@@ -21657,7 +21588,7 @@ Tinnitus/m
 Tinte/Nm
 Tinten/hij
 Tintenstrahldrucker/m
-Tipp/Smij
+Tip/Smij
 Tirade/Nm
 Tiramisu/Sm
 Tirol/Sm
@@ -21718,7 +21649,7 @@ Tollhaus/Tpm
 Tollheit/Pm
 Tollkirsche/Nm
 Tollkühnheit/m
-Tollpatsch/EPSTm
+Tolpatsch/EPSTm
 Tollwut/m
 Tolpatsch/EPSTm
 Tom
@@ -21726,7 +21657,6 @@ Tomahawk/S
 Tomate/Nm
 Tomaten/hij
 Tomatenketchup/Sm
-Tomatenketschup/Sm
 Tombola/Sm
 Tomographie/m
 Ton/EPSTmij
@@ -21748,7 +21678,6 @@ Topdesign/m
 Topf/STm
 Topfpflanze/Nm
 Topfzeit/m
-Topografie/Nm
 Topographie/Nm
 Topologie/m
 Topp/m
@@ -22148,7 +22077,6 @@ Tumultuant/PFm
 Tun/Sm
 Tundra/m
 Tunesien/Sm
-Tunfisch/ESPTm
 Tunichtgut/Sm
 Tunika/m
 Tuniken/m
@@ -22200,8 +22128,6 @@ Typisieren/SJm
 Typisierungskonzepte/m
 Typklasse/Nm
 Typnummer/m
-Typograf/PFm
-Typografie/Nm
 Typograph/PFm
 Typographie/Nm
 Typologie/Nm
@@ -22741,7 +22667,6 @@ Unschuldsmiene/Nm
 Unschuldsvermutung/m
 Unsegen/Sm
 Unselbständigkeit/m
-Unselbstständigkeit/m
 Unsicherheit/Pm
 Unsicherheitsfaktor/PSm
 Unsichtbarkeit/m
@@ -22869,7 +22794,6 @@ Urängste/Nm
 Urabstimmung/Pm
 Urahn/PSm
 Ural/Sm
-Uraltparagraf/Pm
 Uraltparagraph/Pm
 Uran/Smij
 Urangst/m
@@ -23598,7 +23522,6 @@ Verschwörungstheorie/Nm
 Verschwommenheit/m
 Versehrtheit/m
 Verselbständigen/SJm
-Verselbstständigen/SJm
 Versenden/SJm
 Versender/NSFm
 Versenken/SJm
@@ -24148,7 +24071,6 @@ Waghalsigkeit/Pm
 Wagner/S
 Wagneroper/m
 Wagnis/Qqm
-Wagon/Sm
 Wahl/Pmij
 Wahlfänge/dN
 Wahlfänger/dNSF
@@ -24326,7 +24248,7 @@ Wechselakzept/Sm
 Wechselbälge/Nm
 Wechselbalg/Sm
 Wechselfieber/Nm
-Wechte/Nm
+Wächte/Nm
 Weckanruf/PSm
 Wecker/NSm
 Wedding
@@ -24690,7 +24612,6 @@ Wirtschafter/FNSm
 Wirtschaftler/FNSm
 Wirtschaftlichkeit/m
 Wirtschafts/hij
-Wirtschaftsgeografie/Nm
 Wirtschaftsgeographie/Nm
 Wirtshaus/Tpm
 Wirtssprache/Nm
@@ -24858,7 +24779,6 @@ Xerox
 Xerxes
 Xoff
 Xon
-Xylofon/SEPm
 Xylograph/Pm
 Xylophon/SEPm
 Yacht/Pm
@@ -25099,7 +25019,7 @@ Zier/ijm
 Zierde/Nm
 Ziererei/Pm
 Zierlichkeit/m
-Zierrat/EPTm
+Zierat/EPTm
 Zierspaltung/dP
 Ziffer/Nm
 Zifferblätter/Nm
@@ -27452,7 +27372,7 @@ albern/DIXYAW
 albernheit/Pozm
 albinismus/ozm
 albino/Sozm
-albtraum/STpozm
+alptraum/STpozm
 album/Sozm
 alchemie/ozm
 alchemist/PFozm
@@ -29200,7 +29120,6 @@ arbeits/hke
 arbeitsam/AC
 arbeitsamkeit/ozm
 arbeitsarray/Sozm
-arbeitsaufwändig/A
 arbeitsaufwendig/A
 arbeitserleichternd/A
 arbeitsfähig/A
@@ -30040,8 +29959,8 @@ aufräumen/DIXY
 aufraffen/DIXY
 aufragen/DIXY
 aufrappeln/DIXY
-aufrauen/DIXY
-aufrauen/SJozm
+aufrauhen/DIXY
+aufrauhen/SJozm
 aufrechenbar/A
 aufrechnen/DIXY
 aufrechnen/SJozm
@@ -30224,7 +30143,6 @@ auftrumpfen/DIXY
 auftun/IX
 aufwächst
 aufwände/Nozm
-aufwändig/AC
 aufwärm/hke
 aufwärmen/DIXY
 aufwärmen/SJozm
@@ -30342,7 +30260,7 @@ aufzupolieren/D
 aufzuprägen/D
 aufzuräumen/D
 aufzuraffen
-aufzurauen/D
+aufzurauhen/D
 aufzurechnen/D
 aufzuregen/D
 aufzureißen/D
@@ -31486,7 +31404,6 @@ autist/PFozm
 autistisch/A
 auto/Sozm
 auto/hke
-autobiografisch/A
 autobiographisch/A
 autochthon/A
 autodidakt/PFozm
@@ -32492,7 +32409,7 @@ bekunden/DIOXY
 bekunden/SJozm
 belächeln/DIOXYW
 belädt/X
-belämmert/A
+belemmert/A
 beläßt
 belästigen/DIOXY
 belästigen/SJozm
@@ -33492,8 +33409,6 @@ bibelfest/A
 bibeltreu/A
 biber/NSozm
 biber/hke
-bibliografie/Nozm
-bibliografisch/A
 bibliographie/Nozm
 bibliographisch/A
 bibliothek/Pozm
@@ -33608,9 +33523,6 @@ biochemiker/FNSozm
 biochemisch/A
 biodynamisch/A
 biogen/A
-biograf/PFozm
-biografie/Nozm
-biografisch/A
 biograph/PFozm
 biographie/Nozm
 biographisch/A
@@ -33714,7 +33626,6 @@ blätter/Nozm
 blätter/hke
 blättern/DIXYW
 bläulich/A
-blackbox/Pozm
 blackjack/ozm
 blacklist/Sozm
 blackout/Sozm
@@ -34526,8 +34437,8 @@ busen/Sozm
 busen/hke
 busenlos/A
 busgeld/dhke
-business/hke
-business/ozm
+busineß/hke
+busineß/ozm
 busmaster/Sozm
 bussard/EPSozm
 butan/Sozm
@@ -34747,9 +34658,6 @@ cholesterin/Sozm
 chor/STozm
 chor/hke
 choral/Sozm
-choreograf/FPozm
-choreografie/Nozm
-choreografisch/A
 choreograph/FPozm
 choreographie/Nozm
 choreographieren/DIOXY
@@ -35404,8 +35312,6 @@ delegations/hke
 delegieren/DIOXY
 delegierten/ghke
 delektieren/DIXY
-delfin/ESPozm
-delfinschwimmer/SNFozm
 delhi/Sozm
 delikat/AC
 delikatesse/Nozm
@@ -35448,9 +35354,6 @@ demo/hke
 demo/ozm
 demobilisieren/DIOXY
 demobilisieren/SJozm
-demograf/PFozm
-demografie/Nozm
-demografisch/A
 demograph/PFozm
 demographie/Nozm
 demographisch/A
@@ -35520,7 +35423,7 @@ deodorant/Sozm
 departement/Sozm
 dependance/Nozm
 depesche/Nozm
-deplatzieren/DIOXY
+deplazieren/DIOXY
 deponie/Nozm
 deponieren/DIOXY
 deportation/Pozm
@@ -35787,10 +35690,6 @@ dienstälteste/Nozm
 dienstältester/ozm
 dienstag/EPTozm
 dienstag/hke
-dienstagabends
-dienstagmorgen/ozm
-dienstagmorgens
-dienstagnachts
 dienstags/ke
 dienstbar/A
 dienstbarkeit/ozm
@@ -35943,7 +35842,6 @@ disjunktion/Pozm
 disjunktiv/A
 diskette/Nozm
 disketten/hke
-diskografie/Nozm
 diskographie/Nozm
 diskont/SEPozm
 diskont/hke
@@ -36124,10 +36022,6 @@ donnergang/ozm
 donnern/DIVXY
 donnerstag/EPTSozm
 donnerstag/hke
-donnerstagabends
-donnerstagmorgen/ozm
-donnerstagmorgens
-donnerstagnachts
 donnerstags/ke
 doof/AC
 doping/Sozm
@@ -36353,7 +36247,7 @@ dreschflegel/NSozm
 dreschgut/STozm
 dresden/Sozm
 dresdner/SNFozm
-dress/TEozm
+dreß/TEozm
 dresseur/EPSFozm
 dressieren/DIOXY
 dressman/ozm
@@ -36386,7 +36280,7 @@ drittkläßler/NFSozm
 drittklassig/A
 drittletzte/A
 drittmittel/NSozm
-drittplatziert/A
+drittplaziert/A
 drittstärkste/A
 dröge/A
 dröhnen/DIXY
@@ -36965,6 +36859,7 @@ ebenheit/ozm
 ebenholz/Tozm
 ebenjene/A
 ebenso
+ebensoviel/A
 ebensolche/A
 eber/NSozm
 ebnen/DIXY
@@ -37199,6 +37094,7 @@ einbilden/SJozm
 einbinden/DIX
 einbinden/SJozm
 einbläuen/DIXY
+einbleuen/DIXY
 einblenden/DIXY
 einblenden/SJozm
 einblick/EPSozm
@@ -37628,6 +37524,7 @@ einhüllen/DIXY
 einhundert
 einhundertfünfzig
 einig/AU
+einigemal
 einigen/DIVXY
 einigen/SJozm
 einigermaßen
@@ -38224,6 +38121,7 @@ eisern/A
 eisfrei/A
 eisgekühlt/A
 eisig/AC
+eisigkalt/A
 eiskalt/A
 eisprung/STozm
 eisschnelllaufen/ozm
@@ -39612,6 +39510,7 @@ erstellen/BDIOXY
 erstellen/SJozm
 ersteller/NSFozm
 erstellungs/hke
+erstenmal
 erstens
 erster/A
 ersterben/DI
@@ -39631,7 +39530,7 @@ erstlingswerk/ozm
 erstmalige/A
 erstmals
 erstochen/A
-erstplatziert/A
+erstplaziert/A
 erstrahlen/DIOXY
 erstrangig/A
 erstreben/DIOXY
@@ -39801,7 +39700,6 @@ essenmaschine/ozm
 essens/hke
 essentiell/A
 essenz/Pozm
-essenziell/A
 esser/NSFozm
 essig/Sozm
 essig/hke
@@ -39833,7 +39731,6 @@ ethiker/NSFozm
 ethisch/A
 ethnie/Nozm
 ethnisch/A
-ethnografie/ozm
 ethnograph/Pozm
 ethnographie/ozm
 ethnologe/NFozm
@@ -39982,8 +39879,6 @@ existenz/Pozm
 existenz/hke
 existenzbedrohend/A
 existenzgefährdend/A
-existenzialismus/ozm
-existenziell/A
 existieren/DIXY
 exitcode/Sozm
 exkaiser/NSFozm
@@ -40300,13 +40195,6 @@ fangemeinde/ozm
 fangen/DIV
 fango/ozm
 fangopackung/Pozm
-fantasie/Nozm
-fantasielos/AC
-fantasieprojekte/ozm
-fantasiereich/AC
-fantasievoll/AC
-fantast/PFozm
-fantastisch/AC
 farb/hke
 farbe/Nozm
 farbecht/A
@@ -41058,6 +40946,7 @@ flößen/DIXY
 flösse/Z
 flöte/Nozm
 flöten/DIXYke
+flötengehen/DIX
 flötespielen/Sozm
 flötist/PFozm
 flöz/EPTozm
@@ -41161,8 +41050,9 @@ föderalistisch/A
 föderation/Pozm
 föderativ/A
 föhn/Sozm
+fön/Sozm
 föhneinbruch/STozm
-föhnen/DIXY
+fönen/DIXY
 föhnig
 föhre/Nozm
 föhrengehölz/ozm
@@ -41233,7 +41123,6 @@ fondsvermögen/Sozm
 fondsverwaltung/Pozm
 fondswerte/ozm
 fondue/Sozm
-fonografie/ozm
 fontäne/Nozm
 fontainebleau/ozm
 foppen/DIXY
@@ -41444,7 +41333,6 @@ fotometrisch/A
 fotorealistisch/A
 fotospezifisch/A
 fototechnisch/A
-fotovoltaik/ozm
 fotze/Nnozm
 fotzen/hke
 foul/Sozm
@@ -41598,7 +41486,6 @@ freikratzen/BDIXY
 freilassen/DI
 freilegen/DIXY
 freilich
-freimachen/DIXY
 freimaurerei/ozm
 freimaurerloge/Nozm
 freimütig/AC
@@ -41621,10 +41508,6 @@ freistellen/DIXY
 freistilringen/Sozm
 freitag/EPozm
 freitag/hke
-freitagabends
-freitagmorgen/Sozm
-freitagmorgens
-freitagnachts
 freitags/ke
 freitod/TEPSozm
 freitragend/A
@@ -41742,8 +41625,8 @@ fristlos/A
 fristsetzung/ozm
 fristverlängerung/Pozm
 frisur/Pozm
-fritteuse/Nozm
-frittieren/DIXY
+friteuse/Nozm
+fritieren/DIXY
 frivol/A
 fröhlich/AC
 fröhlichkeit/ozm
@@ -42058,7 +41941,7 @@ gäb/ZE
 gähnen/DIXYW
 gähnens/ozm
 gälte/Z
-gämse/Nozm
+gemse/Nozm
 gängelband/STozm
 gängelei/Pozm
 gängeln/DIXYW
@@ -42617,7 +42500,7 @@ geflüstert/A
 geflucht
 geflunker/Sozm
 geflunkert
-geföhnt/A
+gefönt/A
 gefördert/A
 gefolge/NSozm
 gefolgert/A
@@ -43261,6 +43144,8 @@ genauigkeit/Pozm
 genauigkeitsgrad/ozm
 genauigkeitsklasse/ozm
 genauso
+genausowenig/A
+genausoviel/A
 gendarm/Pozm
 gendarmenmarkt/STozm
 geneckt/A
@@ -43371,10 +43256,6 @@ genußvoll/A
 genutzt/AU
 geöffnet/AU
 geölt/A
-geograf/PFozm
-geografie/hke
-geografie/ozm
-geografisch/A
 geograph/PFozm
 geographie/hke
 geographie/ozm
@@ -43436,7 +43317,7 @@ geplätscher/Sozm
 geplättet/A
 geplagt/A
 geplant/AU
-geplantscht
+geplanscht
 geplapper/Sozm
 geplappert
 geplatzt/A
@@ -44639,7 +44520,6 @@ giltst/VX
 ging/VZ
 ginge/Z
 ginkgo/Sozm
-ginko/ozm
 gipfel/NSozm
 gipfel/hke
 gipfeln/DIXY
@@ -44716,6 +44596,7 @@ gleichartig/AU
 gleichauf
 gleichbedeutend/A
 gleichberechtigt/AC
+gleichbleiben/DIX
 gleichbleibend/A
 gleichen/DIVX
 gleichen/SJozm
@@ -44956,11 +44837,12 @@ gräser/Nozm
 gräßlich/AC
 gräte/Nozm
 grätig/A
-gräuel/NSozm
-gräuelmärchen/ozm
-gräuelmeldung/Pozm
-gräueltat/Pozm
 gräulich/AC
+greuel/NSozm
+greuelmärchen/ozm
+greuelmeldung/Pozm
+greueltat/Pozm
+greulich/AC
 grab/JSTozm
 grab/hke
 grabbeln/DIXYW
@@ -44987,7 +44869,6 @@ grafiker/FNSozm
 grafikfähig/A
 grafikprozessor/PSozm
 grafisch/A
-grafit/SEPozm
 grafologe/NFozm
 grafologisch/A
 grafschaft/Pozm
@@ -46040,7 +45921,7 @@ hellhörigkeit/ozm
 helligkeit/Pozm
 helligkeits/hke
 helling/ozm
-helllicht/A
+hellicht/A
 hellrot/A
 hellseher/FNSozm
 hellseherei/Pozm
@@ -47471,7 +47352,7 @@ höchstgenau/A
 höchstgerichtlich/A
 höchstmöglich/A
 höchstpersönlich
-höchstplatziert/A
+höchstplaziert/A
 höchstqualifiziert/A
 höchstrichterlich/A
 höchstwahrscheinlich/A
@@ -47727,8 +47608,6 @@ hollywoodstar/Sozm
 hollywoodzauber/ozm
 holm/EPSozm
 holocaust/Sozm
-holografie/ozm
-holografisch/A
 hologramm/EPSozm
 holographie/ozm
 holographisch/A
@@ -48346,7 +48225,6 @@ ineffizient/AC
 ineffizienz/Pozm
 ineinander
 inessentiell/A
-inessenziell/A
 inexistent/A
 infam/AC
 infanterie/Nozm
@@ -48402,7 +48280,6 @@ informativ/AC
 informatorisch/A
 informell/AC
 informieren/DIOXY
-infrage
 infrarot/Ake
 infrarot/ozm
 infrastruktur/Pozm
@@ -48886,9 +48763,6 @@ ire/FNozm
 irgend
 irgendein/A
 irgendeinmal
-irgendetwas
-irgendjemand/PT
-irgendjemandem
 irgendwann
 irgendwas
 irgendwelche/A
@@ -49098,6 +48972,8 @@ jederlei
 jedermann/S
 jederzeit
 jederzeitig/A
+jedesmal
+jedesmalig
 jedoch
 jedwede/A
 jeep/Sozm
@@ -49309,7 +49185,7 @@ kämpfe/Nozm
 kämpfen/DIXY
 kämpfer/FNSozm
 kämpferisch/AC
-känguru/Sozm
+känguruh/Sozm
 käppchen/Sozm
 käppchenträgern/ozm
 kärglich/AC
@@ -49443,8 +49319,6 @@ kalkulatorisch/A
 kalkulierbar/ACU
 kalkulieren/DIOVXY
 kalkutta/Sozm
-kalligraf/PFozm
-kalligrafie/ozm
 kalligraph/PFozm
 kalligraphie/ozm
 kalorie/Nozm
@@ -49589,7 +49463,6 @@ kanute/Nozm
 kanuverband/TSozm
 kanzel/Nozm
 kanzeln/IXY
-kanzelparagraf/Pozm
 kanzelparagraph/Pozm
 kanzlei/Pozm
 kanzlei/hke
@@ -49684,7 +49557,6 @@ kardinalskollegium/ozm
 kardinalsstand/ozm
 kardinaltugend/Pozm
 kardinalzahl/Pozm
-kardiograf/Pozm
 kardiogramm/STozm
 kardiograph/Pozm
 kardiologe/NFozm
@@ -49754,10 +49626,6 @@ kartieren/SJozm
 kartoffel/Nozm
 kartoffel/hke
 kartoffelschälen/Sozm
-kartograf/PFozm
-kartografie/ozm
-kartografieren/BDIOXYW
-kartografisch/A
 kartograph/PFozm
 kartographie/ozm
 kartographieren/BDIOXYW
@@ -50039,8 +49907,6 @@ kerngesund/A
 kernig/AC
 kernlos/A
 kernspinresonanz/ozm
-kernspintomograf/Pozm
-kernspintomografie/ozm
 kernspintomogramm/SEPozm
 kernspintomograph/Pozm
 kernspintomographie/ozm
@@ -50056,7 +49922,6 @@ kessel/NSMozm
 kessel/hke
 kesseln/IXYW
 ketchup/Sozm
-ketschup/Sozm
 kette/NMozm
 ketten/DIVXYke
 kettenartig/A
@@ -50144,7 +50009,6 @@ kinderleicht/A
 kinderlein/ozm
 kinderlieb/A
 kinderlos/A
-kinderpornografisch/A
 kinderpornographisch/A
 kinderreich/AC
 kinderschreck/EPSozm
@@ -51435,7 +51299,7 @@ kostenneutral/A
 kostenpflichtig/A
 kostenschonend/A
 kostensenkend/A
-kostensenkungspotenzial/Sozm
+kostensenkungspotential/Sozm
 kostensparend/A
 kostgänger/NSFozm
 kostprobe/Nozm
@@ -51521,9 +51385,6 @@ krankheits/hke
 krankheitsbedingt/A
 krankheitserregend/A
 krankmachen/D
-krankschreiben/BIX
-krankschreiben/SJozm
-krankschrieb/Z
 krankzumachen
 kranz/Tozm
 kranz/hke
@@ -51751,9 +51612,6 @@ kruste/Nozm
 krustentier/ozm
 kruzifix/EPTozm
 kryptisch/A
-kryptografie/hke
-kryptografie/ozm
-kryptografisch/A
 kryptographie/hke
 kryptographie/ozm
 kryptographisch/A
@@ -52642,7 +52500,9 @@ lettisch/A
 lettland/Sozm
 letzt/ozm
 letzte/A
+letztemal
 letztendlich/A
+letztenmal
 letztens
 letztere/A
 letztgeliefert/A
@@ -52678,7 +52538,6 @@ leviten/ozm
 lexika/ozm
 lexikalisch/A
 lexikalisieren/DIOXYW
-lexikografisch/A
 lexikograph/Pozm
 lexikographisch/A
 lexikon/Sozm
@@ -52894,8 +52753,6 @@ literweise
 litfaßsäule/Nozm
 lithium/ozm
 lithiumbatterie/Nozm
-lithografie/Nozm
-lithografisch/A
 lithographie/Nozm
 lithographisch/A
 litowsk/ozm
@@ -53310,8 +53167,11 @@ madig/A
 madonnenbild/STRozm
 madrid/Sozm
 mafia/ozm
+maffia/ozm
 mafiös/AC
+maffiös/AC
 mafios/AC
+maffios/AC
 mafiosi/ozm
 mafioso/ozm
 magazin/EPSozm
@@ -54948,7 +54808,6 @@ monochrom/A
 monochromatisch/A
 monogam/A
 monogamie/ozm
-monografisch/A
 monogramm/Sozm
 monographie/Nozm
 monokultur/Pozm
@@ -54976,11 +54835,7 @@ monsunregen/Sozm
 mont/Eozm
 montag/EPozm
 montag/hke
-montagabends
 montage/hke
-montagmorgen/ozm
-montagmorgens
-montagnachts
 montags/ke
 montan/hke
 montblanc/Sozm
@@ -55004,7 +54859,7 @@ moosgummi/Sozm
 mooshaus/Tpozm
 moped/Sozm
 mopedmotor/SPozm
-mopp/Sozm
+mop/Sozm
 mops/Pozm
 mopsen/DIXY
 moräne/Nozm
@@ -56168,7 +56023,6 @@ nichtsdestominder
 nichtsdestotrotz
 nichtsdestoweniger
 nichtsequentiell/A
-nichtsequenziell/A
 nichtsnutz/Tozm
 nichtsnutzig/A
 nichtssagend/A
@@ -56339,7 +56193,6 @@ nobel/Ake
 nobelpreis/TPEozm
 noblesse/ozm
 noch
-nochmal/n
 nochmalig/A
 nochmals
 nocken/ozm
@@ -56984,9 +56837,6 @@ orthodox/AU
 orthodoxie/Nozm
 orthogonal/A
 orthogonalität/ozm
-orthografie/Nozm
-orthografiefehler/SNozm
-orthografisch/A
 orthographie/Nozm
 orthographiefehler/SNozm
 orthographisch/A
@@ -57058,8 +56908,6 @@ ostwestfalen/Sozm
 oszillation/Pozm
 oszillator/Pozm
 oszillieren/DIOXY
-oszillografenbild/ozm
-oszillografisch/A
 oszillogramm/EPSozm
 oszillograph/Pozm
 oszillographenbild/ozm
@@ -57090,7 +56938,6 @@ ozean/EPSozm
 ozean/hke
 ozeanien/Sozm
 ozeanisch/A
-ozeanografisch/A
 ozeanographisch/A
 ozon/Sozm
 ozon/hke
@@ -57197,7 +57044,6 @@ panschen/DIXYW
 panscher/NSFozm
 panscherei/Pozm
 panslawismus/ozm
-panter/Sozm
 panther/Sozm
 pantoffel/NSozm
 pantoffelheld/Pozm
@@ -57229,7 +57075,6 @@ pappenheimer/Nozm
 pappenstiel/ozm
 pappig/AC
 pappmaché/Sozm
-pappmaschee/Sozm
 paprika/hke
 paprika/ozm
 papst/Tozm
@@ -57259,8 +57104,6 @@ paradoxerweise
 paradoxie/Nozm
 paradoxon/Sozm
 paraffin/EPSozm
-paragraf/Pozm
-paragrafenreiter/NSozm
 paragraph/Pozm
 paragraphenreiter/NSozm
 paraguay/Sozm
@@ -57406,7 +57249,6 @@ passante/ozm
 passatregengebiet/ozm
 passau/Sozm
 passauer/NSFozm
-passee
 passen/IVXYW
 passen/SJozm
 passend/ACU
@@ -57825,6 +57667,7 @@ phantasie/Nozm
 phantasiebild/STRozm
 phantasiefigur/ozm
 phantasielos/AC
+phantasieprojekte/ozm
 phantasiereich/AC
 phantasieren/DIXY
 phantasieuniform/ozm
@@ -58099,8 +57942,8 @@ plantage/Nozm
 plantageanteile/ozm
 plantagenarbeiter/FNSozm
 plantagengesellschaften/ozm
-plantschbecken/Sozm
-plantschen/DIXY
+planschbecken/Sozm
+planschen/DIXY
 planungs/hke
 planvoll/A
 planwagen/ozm
@@ -58144,9 +57987,9 @@ platz/Tozm
 platz/hke
 platzanweiser/FNSozm
 platzen/DIXYW
-platzieren/BDIOXY
-platzieren/SJozm
-platzierungs/hke
+plazieren/BDIOXY
+plazieren/SJozm
+plazierungs/hke
 platzsparend/A
 platzvormerkung/ozm
 plauderei/Pozm
@@ -58167,9 +58010,6 @@ pleite
 pleite/Nozm
 pleite/hke
 pleitebedroht/A
-pleitegegangen/A
-pleitegehen/DIX
-pleiteging/ZE
 pleiten/hke
 pleitier/Sozm
 plektrum/Sozm
@@ -58368,8 +58208,6 @@ pore/Nozm
 poren/hke
 porno/Sozm
 porno/nhke
-pornografie/Nozm
-pornografisch/A
 pornographie/Nozm
 pornographisch/A
 porös/AC
@@ -58393,7 +58231,7 @@ portion/Pozm
 portionieren/SJozm
 portionsweise
 portland/Sozm
-portmonee/Sozm
+portemonnaie/Sozm
 porto/Sozm
 portofrei/A
 portogebühren/ozm
@@ -58462,9 +58300,12 @@ potemkinsch/A
 potent/AC
 potentat/Pozm
 potential/EPSozm
+potentialbarriere/Nozm
 potentialfrei/A
 potentialfreiheit/ozm
+potentialtopf/ozm
 potentialtrennung/ozm
+potentialverlauf/pozm
 potentiell/A
 potentiometer/NSozm
 potentiometerauswertung/ozm
@@ -58474,14 +58315,6 @@ potentiometerwert/ozm
 potentiometrisch/A
 potenz/Pozm
 potenz/hke
-potenzial/ESPozm
-potenzialbarriere/Nozm
-potenzialfrei/A
-potenzialfreiheit/ozm
-potenzialtopf/ozm
-potenzialtrennung/ozm
-potenzialverlauf/pozm
-potenziell/A
 potenzieren/DIOXY
 potenzieren/SJozm
 potenziert/AC
@@ -58508,7 +58341,6 @@ präfektur/Pozm
 präferentiell/A
 präferenz/Pozm
 präferenzbehandlung/ozm
-präferenziell/A
 präferenzzone/ozm
 präferieren/DIOXY
 präfix/TEPozm
@@ -58773,6 +58605,7 @@ proband/PFozm
 probat/A
 probe/Nozm
 probe/hke
+probefahren/A
 probehalber
 proben/DIXYke
 probeweise/A
@@ -59200,7 +59033,7 @@ quälen/DIXY
 quälend/AC
 quäler/NSFozm
 quälerei/ozm
-quäntchen/Sozm
+quentchen/Sozm
 quacksalber/SNFozm
 quader/SNozm
 quadrant/Pozm
@@ -59398,6 +59231,7 @@ radaubruder/Sozm
 radebrechen/DI
 radebrecher/ozm
 radeln/DIXYW
+radfahren/A
 radförmig/A
 radial/Ake
 radialfräser/NSozm
@@ -59424,7 +59258,6 @@ radio/Sozm
 radio/hke
 radioaktiv/AC
 radiodurchsage/Nozm
-radiografie/Nozm
 radiogramm/EPSozm
 radiographie/Nozm
 radiologe/NFozm
@@ -59570,10 +59403,10 @@ rattenplage/ozm
 rattern/DIXYW
 ratzeburg/Sozm
 ratzekahl
-rau/AC
+rauh/AC
 raub/STozm
 raub/hke
-raubeinig/A
+rauhbeinig/A
 rauben/DIXY
 raubens/ozm
 rauch/STozm
@@ -59585,14 +59418,14 @@ raucherhusten/ozm
 rauchfrei/A
 rauchig/A
 raudi/ozm
-rauen/DIXY
-raufasertapete/Nozm
+rauhen/DIXY
+rauhfasertapete/Nozm
 raufen/DIXY
 rauflustig/A
 raufschieben/DIX
-rauhaardackel/NSozm
+rauhhaardackel/NSozm
 rauheit/Pozm
-rauigkeit/Pozm
+rauhigkeit/Pozm
 raum/STEpozm
 raum/hke
 raumkrank/A
@@ -59608,7 +59441,7 @@ raupenfahrzeug/ETSPozm
 raupengetrieben/A
 raupenkette/Nozm
 raupensteuerung/ozm
-raureif/STozm
+rauhreif/STozm
 raus
 rausch/hke
 rausch/ozm
@@ -61049,10 +60882,6 @@ sample/Sozm
 samplermodul/ozm
 samstag/EPozm
 samstag/hke
-samstagabends
-samstagmorgen/ozm
-samstagmorgens
-samstagnachts
 samstags/ke
 samt
 samt/STozm
@@ -61189,7 +61018,6 @@ sauseschritt/ozm
 sausewind/STozm
 saustall/Spozm
 savanne/Nozm
-saxofon/ESozm
 saxophon/EPSozm
 scandium/Sozm
 scannen/DIXYW
@@ -61994,7 +61822,7 @@ schnäbel/NMozm
 schnäppchen/Sozm
 schnäppchenjagd/ozm
 schnäpse/NMozm
-schnäuzen/DIXY
+schneuzen/DIXY
 schnabel/Sozm
 schnabelförmig/A
 schnabeltasse/ozm
@@ -62683,7 +62511,6 @@ schwungvoll/AC
 schwuppdiwupp
 schwur/Sozm
 schwurgericht/PSozm
-sciencefiction/ozm
 screenshot/Sozm
 scrollen/DIXY
 seattle/Sozm
@@ -62834,7 +62661,6 @@ seinetwegen
 seinetwillen
 seinige/A
 seismisch/A
-seismograf/Pozm
 seismograph/Pozm
 seismologisch/A
 seitdem
@@ -62911,8 +62737,6 @@ selbstorganisiert/A
 selbstredend
 selbstregulierend/A
 selbstsicher/AC
-selbstständig/ACU
-selbstständigkeit/ozm
 selbstsüchtig/A
 selbsttätig/A
 selbsttäuschend/A
@@ -63035,7 +62859,6 @@ separatist/PFozm
 separatistenbewegung/ozm
 separatistisch/A
 separator/SPozm
-separee/Sozm
 separieren/BIOXY
 seppel/ozm
 september/Sozm
@@ -63045,7 +62868,6 @@ septisch/A
 sequentiell/A
 sequenz/Pozm
 sequenzer/NSozm
-sequenziell/A
 serbe/FNozm
 serbien/Sozm
 serbisch/A
@@ -63106,7 +62928,6 @@ seufzen/DIXY
 seufzer/NSozm
 seufzerbrücke/ozm
 sex/Tozm
-sexappeal/Sozm
 sexarbeiter/NSFozm
 sexismen/ozm
 sexismus/ozm
@@ -63141,7 +62962,7 @@ shorts/ozm
 shortstory/Sozm
 show/Sozm
 showbühne/Nozm
-showbusiness/ozm
+showbusineß/ozm
 showdown/Sozm
 shrimp/Sozm
 sibirien/Sozm
@@ -63179,7 +63000,6 @@ sichtbarmachen/SJozm
 sichten/BDIXY
 sichtlich/A
 sichverselbständigen/Sozm
-sichverselbstständigen/Sozm
 sickergrube/Nozm
 sickern/DIXY
 sickerwasser/Sozm
@@ -63541,7 +63361,6 @@ sockenhalter/NSozm
 socket/Sozm
 soda/Sozm
 sodann
-sodaß
 sodawasser/Sozm
 sodbrennen/Sozm
 sodom/ozm
@@ -63680,10 +63499,6 @@ sonnig/AC
 sonntäglich/A
 sonntag/PEozm
 sonntag/hke
-sonntagabends
-sonntagmorgen/ozm
-sonntagmorgens
-sonntagnachts
 sonntags/ke
 sonntagsruhe/Nozm
 sonnverbrannt/A
@@ -63692,6 +63507,11 @@ sonnyboy/Sozm
 sonor/A
 sonst
 sonstig/A
+sonstwas
+sonstwer
+sonstwie
+sonstwo
+sonstwohin
 sooft
 sophist/FPozm
 sophisterei/Pozm
@@ -63778,8 +63598,6 @@ sozialräumlich/A
 sozialversicherungspflichtig/A
 sozialwissenschaftlich/A
 sozietät/ozm
-soziodemografisch/A
-soziografisch/A
 soziographisch/A
 soziokulturell/A
 soziologe/FNozm
@@ -63812,7 +63630,6 @@ spachtel/Sozm
 spachtel/hke
 spachteln/DIXYW
 spagat/EPSozm
-spagetti/ozm
 spaghetti/ozm
 spalier/EPSozm
 spalierbaum/STpozm
@@ -64234,7 +64051,7 @@ ständer/NSozm
 ständerat/Sozm
 ständewesen/Sozm
 ständig/A
-stängel/NSozm
+stengel/NSozm
 stänker/Sozm
 stänkerei/Pozm
 stänkern/DIXYW
@@ -64526,8 +64343,6 @@ steckkompatibel/A
 steckling/EPSozm
 steckverbinderprobleme/ozm
 steg/EPSTozm
-steganografie/ozm
-steganografisch/A
 steganographie/ozm
 steganographisch/A
 stegreif/Sozm
@@ -64607,10 +64422,6 @@ stempel/hke
 stempeldruckabhängig/A
 stempeln/DIXYW
 stenoblock/ozm
-stenograf/FPozm
-stenografie/Nozm
-stenografieren/DIOXYW
-stenografisch/A
 stenogramm/EPSozm
 stenograph/FPozm
 stenographieren/DIOXYW
@@ -65175,7 +64986,7 @@ stubenhocker/Sozm
 stubenkamerad/Pozm
 stubenmädchen/Sozm
 stubenrein/A
-stuckateur/ESFozm
+stukkateur/ESFozm
 student/FPozm
 studenten/ghke
 studentenschaft/Pozm
@@ -65336,7 +65147,6 @@ substantivieren/SJozm
 substantiviert/A
 substantivisch/A
 substanz/Pozm
-substanziell/AC
 substanzlos/AC
 substanzverlust/EPSTozm
 substituieren/BDIOXYW
@@ -65964,16 +65774,6 @@ telefonierverhalten/Sozm
 telefonisch/A
 telefonist/FPozm
 telefonmodem/ozm
-telegraf/Pozm
-telegrafenämter/Nozm
-telegrafenamt/Tozm
-telegrafenanlage/Nozm
-telegrafenmast/TEozm
-telegrafenweg/ozm
-telegrafie/ozm
-telegrafieprüfung/ozm
-telegrafieren/DIXY
-telegrafisch/A
 telegramm/EPSozm
 telegrammanschrift/Pozm
 telegrammformate/ozm
@@ -66298,8 +66098,8 @@ tinnitus/ozm
 tinte/Nozm
 tinten/hke
 tintenstrahldrucker/ozm
-tipp/Sozm
-tipp/hke
+tip/Sozm
+tip/hke
 tippeln/DIXYW
 tippen/DIVXY
 tirade/Nozm
@@ -66397,15 +66197,14 @@ tollheit/Pozm
 tollkirsche/Nozm
 tollkühn/AC
 tollkühnheit/ozm
-tollpatsch/EPSTozm
-tollpatschig/AC
+tolpatsch/EPSTozm
+tolpatschig/AC
 tollwut/ozm
 tolpatsch/EPSTozm
 tolpatschig/AC
 tomate/Nozm
 tomaten/hke
 tomatenketchup/Sozm
-tomatenketschup/Sozm
 tombola/Sozm
 tomographie/ozm
 ton/EPSTozm
@@ -66434,8 +66233,6 @@ topf/STozm
 topfit
 topfpflanze/Nozm
 topfzeit/ozm
-topografie/Nozm
-topografisch/A
 topographie/Nozm
 topographisch/A
 topologie/ozm
@@ -67051,7 +66848,6 @@ tun/Sozm
 tundra/ozm
 tunesien/Sozm
 tunesisch/A
-tunfisch/ESPTozm
 tunichtgut/Sozm
 tunika/ozm
 tuniken/ozm
@@ -67123,8 +66919,6 @@ typisieren/SJozm
 typisierungskonzepte/ozm
 typklasse/Nozm
 typnummer/ozm
-typograf/PFozm
-typografie/Nozm
 typograph/PFozm
 typographie/Nozm
 typographisch/A
@@ -68016,7 +67810,6 @@ umsiedler/NSFozm
 umsiedlung/Pozm
 umsieht/X
 umsinken/DIX
-umso
 umsonst
 umsorgen/DIOXY
 umsortieren/BDIOXY
@@ -68579,7 +68372,7 @@ unparteilichkeit/ozm
 unpassierbar/A
 unpersönlichkeit/Pozm
 unpfändbar/A
-unplatziert/A
+unplaziert/A
 unpopularität/ozm
 unprivilegiert/A
 unprofessionalität/ozm
@@ -68624,7 +68417,6 @@ unschuldsmiene/Nozm
 unschuldsvermutung/ozm
 unsegen/Sozm
 unselbständigkeit/ozm
-unselbstständigkeit/ozm
 unser/AN
 unsereiner
 unsereins
@@ -69020,7 +68812,6 @@ urabstimmung/Pozm
 urahn/PSozm
 ural/Sozm
 uralt/A
-uraltparagraf/Pozm
 uraltparagraph/Pozm
 uran/Sozm
 uran/hke
@@ -70506,8 +70297,6 @@ versehren/DIOXY
 versehrtheit/ozm
 verselbständigen/IOXY
 verselbständigen/SJozm
-verselbstständigen/IOXY
-verselbstständigen/SJozm
 versenden/DIOXY
 versenden/SJozm
 versender/NSFozm
@@ -71961,7 +71750,6 @@ waghalsig/AC
 waghalsigkeit/Pozm
 wagneroper/ozm
 wagnis/Qqozm
-wagon/Sozm
 wahl/Pozm
 wahl/hke
 wahlberechtigt/A
@@ -72222,7 +72010,7 @@ wechselseitig/A
 wechselvoll/AC
 wechselweise/A
 wechselwirken/DIXY
-wechte/Nozm
+wächte/Nozm
 weckanruf/PSozm
 wecken/DIXYW
 wecker/NSozm
@@ -72258,7 +72046,7 @@ wegfangen/ID
 wegfegen/DIXY
 wegfiel/ZE
 wegfischen/IXYD
-wegföhnen/IXYD
+wegfönen/IXYD
 wegführen/DIXY
 weggeben/DI
 weggeblasen/A
@@ -72419,7 +72207,6 @@ wehrmachtsangehörige/ozm
 wehrpaß/Tpozm
 wehrpflicht/Pozm
 wehrpflichtig/A
-wehtun/IX
 weib/EMTozm
 weibchenhaft/A
 weiber/Nozm
@@ -72497,7 +72284,6 @@ weißrussisch/A
 weißrußland/Sozm
 weißschimmelkäse/SNozm
 weißt
-weißwaschen/DI
 weise/ACU
 weise/ozm
 weisen/DIVXW
@@ -72636,6 +72422,7 @@ weitgreifend/A
 weither
 weitherzig/AC
 weithin
+weithinaus
 weitläufig/AC
 weitläufigkeit/ozm
 weitmaschig/AC
@@ -72860,7 +72647,6 @@ wichtel/NSozm
 wichtig/ACU
 wichtiggemacht
 wichtigkeit/Pozm
-wichtigmachen/DIXY
 wichtigtuer/FNSozm
 wichtigtuerei/Pozm
 wicke/Nozm
@@ -72978,7 +72764,6 @@ wiederbewaffnen/IXYDO
 wiederbringen/IXD
 wiedereinbringen/BIXD
 wiedereinfinden/IXD
-wiedereinführen/BIXYD
 wiedereingebracht/A
 wiedereingeführt/A
 wiedereingefunden/A
@@ -73081,6 +72866,7 @@ wiesenländer/Nozm
 wiesenlands/ozm
 wiesenpflanze/Nozm
 wieso
+wieviel
 wievielerlei
 wievielt/A
 wieweit
@@ -73221,7 +73007,6 @@ wirtschaftler/FNSozm
 wirtschaftlich/AC
 wirtschaftlichkeit/ozm
 wirtschafts/hke
-wirtschaftsgeografie/Nozm
 wirtschaftsgeographie/Nozm
 wirtschaftspolitisch/A
 wirtschaftssoziologisch/A
@@ -73579,7 +73364,6 @@ xenophob/AC
 xenophobie/Nozm
 xerographieren/IOXY
 xi
-xylofon/SEPozm
 xylograph/Pozm
 xylophon/SEPozm
 y/n
@@ -73733,7 +73517,6 @@ zeit/JPozm
 zeit/hke
 zeitabhängig/A
 zeitanteilig/A
-zeitaufwändig/AC
 zeitaufwendig/AC
 zeitgemäß/ACU
 zeitgenössisch/A
@@ -74074,7 +73857,7 @@ zieren/DIVXYW
 ziererei/Pozm
 zierlich/AC
 zierlichkeit/ozm
-zierrat/EPTozm
+zierat/EPTozm
 ziffer/Nozm
 zifferblätter/Nozm
 zifferblatt/Sozm
@@ -74517,12 +74300,6 @@ zugrundezulegen/D
 zugucken/DIXY
 zugunsten
 zugute
-zugutehältst/X
-zugutehalten/DI
-zugutehielt/EZ
-zugutekämen/IX
-zugutekam/Z
-zugutekommen/DIX
 zuhälter/NSFozm
 zuhälterei/ozm
 zuhältst/X
@@ -75094,6 +74871,7 @@ zusammenschrauben/IXYD
 zusammenschreiben/IXD
 zusammenschrumpfen/IXYD
 zusammenschweißen/IXYD
+zusammensein
 zusammensetzen/BIXYD
 zusammensinken/IXD
 zusammenspielen/IXYD
@@ -75177,7 +74955,7 @@ zuschußbetrieb/EPSozm
 zuse/ozm
 zusehen/DI
 zusehends
-zuseiten
+zusein
 zusenden/DIXY
 zusenden/SJozm
 zusetzen/DIXY
@@ -75262,6 +75040,7 @@ zuversicht/ozm
 zuversichtlich/AC
 zuversichtlichkeit/ozm
 zuversichtsindikator/Pozm
+zuviel
 zuvörderst
 zuvor
 zuvorderst
