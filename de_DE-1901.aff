@@ -67,12 +67,12 @@ SFX L   0       lichen     [^n]
 SFX M N 16
 SFX M   0       chen       [^se]
 SFX M   0       chens      [^se]
-SFX M   aß      ässchen    aß
-SFX M   aß      ässchens   aß
-SFX M   oß      össchen    oß
-SFX M   oß      össchens   oß
-SFX M   uß      üsschen    uß
-SFX M   uß      üsschens   uß
+SFX M   aß      äßchen     aß
+SFX M   aß      äßchens    aß
+SFX M   oß      ößchen     oß
+SFX M   oß      ößchens    oß
+SFX M   uß      üßchen     uß
+SFX M   uß      üßchens    uß
 SFX M   ass     ässchen    ass
 SFX M   ass     ässchens   ass
 SFX M   oss     össchen    oss
