@@ -357,15 +357,20 @@ SFX D   0       dem        n
 
 
 
-SFX W Y 5
-SFX W   en      0          en
+SFX W Y 7
+SFX W   en      0          [^s]en
+SFX W   en      0          [^s]sen
+SFX W   ssen    ß          ssen
 SFX W   n       0          [^e]n
 SFX W   st      0          [^s]st
 SFX W   t       0          sst
 SFX W   t       0          [^s]t
 
 
-SFX I Y 16
+SFX I Y 20
+SFX I   ssen    ßt         ssen
+SFX I   ssen    ßte        ssen
+SFX I   ssen    ßten       ssen
 SFX I   n       0          en
 SFX I   eln     le         eln
 SFX I   n       e          eln
@@ -373,7 +378,8 @@ SFX I   ern     re         ern
 SFX I   n       e          ern
 SFX I   n       t          e[lr]n
 SFX I   n       t          [dt]en
-SFX I   en      t          [^dimnt]en
+SFX I   en      t          [^dimnts]en
+SFX I   en      t          [^s]sen
 SFX I   en      t          eien
 SFX I   n       t          [^e]ien
 SFX I   n       t          chnen
@@ -384,12 +390,13 @@ SFX I   n       e          un
 SFX I   n       t          un
 
 
-SFX X Y 26
+SFX X Y 27
 SFX X   n       t          e[lr]n
 SFX X   n       t          [dtw]en
 SFX X   en      t          eien
 SFX X   n       t          [^e]ien
-SFX X   en      t          [^ditmnw]en
+SFX X   en      t          [^ditmnws]en
+SFX X   en      t          [^s]sen
 SFX X   n       t          chnen
 SFX X   en      t          [^c]h[mn]en
 SFX X   n       t          [^aäehilmnoöuür][mn]en
