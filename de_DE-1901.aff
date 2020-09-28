@@ -251,7 +251,8 @@ SFX N Y 1
 SFX N   0       n          .
 
 
-SFX P Y 1
+SFX P Y 2
+SFX P   ß       ssen       ß
 SFX P   0       en         .
 
 
