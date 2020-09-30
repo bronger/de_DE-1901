@@ -563,7 +563,9 @@ FORBIDDENWORD d
 # Affixes with COMPOUNDPERMITFLAG may be inside of compounds.
 COMPOUNDPERMITFLAG c
 
-ONLYINCOMPOUND o
+# FixMe: The following must be re-added once
+# https://github.com/hunspell/hunspell/issues/695 is fixed.
+# ONLYINCOMPOUND o
 
 # my PSEUDOROOT h(elper) flag
 NEEDAFFIX h
