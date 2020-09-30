@@ -132,6 +132,14 @@ SFX A   erig    rigem      [^hi]erig
 SFX A   erig    riges      [^hi]erig
 
 
+SFX a Y 5
+SFX a   ß       sse        .
+SFX a   ß       sser       .
+SFX a   ß       ssen       .
+SFX a   ß       ssem       .
+SFX a   ß       sses       .
+
+
 SFX C Y 100
 SFX C   0       ere        [^elr]
 SFX C   0       erer       [^elr]
