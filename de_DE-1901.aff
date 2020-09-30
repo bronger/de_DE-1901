@@ -428,10 +428,11 @@ SFX X   t       st         [^sz]t
 SFX X   t       est        zt
 
 
-SFX Y Y 36
+SFX Y Y 40
 SFX Y   n       te         e[lr]n
 SFX Y   n       te         [dtw]en
-SFX Y   en      te         [^dimntw]en
+SFX Y   en      te         [^dimntws]en
+SFX Y   en      te         [^s]sen
 SFX Y   en      te         eien
 SFX Y   n       te         [^e]ien
 SFX Y   n       te         chnen
@@ -440,7 +441,8 @@ SFX Y   n       te         [^aäehilmnoöuür][mn]en
 SFX Y   en      te         [aäeilmnoöuür][mn]en
 SFX Y   n       test       e[lr]n
 SFX Y   n       test       [dtw]en
-SFX Y   en      test       [^dimntw]en
+SFX Y   en      test       [^dimntws]en
+SFX Y   en      test       [^s]sen
 SFX Y   en      test       eien
 SFX Y   n       test       [^e]ien
 SFX Y   n       test       chnen
@@ -449,7 +451,8 @@ SFX Y   n       test       [^aäehilmnoöuür][mn]en
 SFX Y   en      test       [aäeilmnoöuür][mn]en
 SFX Y   n       tet        e[lr]n
 SFX Y   n       tet        [dtw]en
-SFX Y   en      tet        [^dimntw]en
+SFX Y   en      tet        [^dimntws]en
+SFX Y   en      tet        [^s]sen
 SFX Y   en      tet        eien
 SFX Y   n       tet        [^e]ien
 SFX Y   n       tet        chnen
@@ -458,7 +461,8 @@ SFX Y   n       tet        [^aäehilmnoöuür][mn]en
 SFX Y   en      tet        [aäeilmnoöuür][mn]en
 SFX Y   n       ten        e[lr]n
 SFX Y   n       ten        [dtw]en
-SFX Y   en      ten        [^dimntw]en
+SFX Y   en      ten        [^dimntws]en
+SFX Y   en      ten        [^s]sen
 SFX Y   en      ten        eien
 SFX Y   n       ten        [^e]ien
 SFX Y   n       ten        chnen
