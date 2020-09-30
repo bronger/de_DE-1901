@@ -10,7 +10,7 @@
 # versions using the GPL may only include the GPL
 
 SET UTF-8
-TRY esijanrtolcdugmphbyfvkwqxzäüößáéêàâñESIJANRTOLCDUGMPHBYFVKWQXZÄÜÖÉ-.
+TRY esijanrtolcdugmphbyfvkwqxzäüößáéêàâñESIJANRTOLCDUGMPHBYFVKWQXZÄÜÖÉ-
 
 PFX U Y 1
 PFX U   0     un       .
@@ -572,7 +572,7 @@ CIRCUMFIX f
 # make not all possible suggestions for typos of Flicken or some rare words
 NOSUGGEST n
 
-WORDCHARS ß-.
+WORDCHARS ß-
 
 # - setting this to 2 decreases performance by 1/10 but is needed for "öl" and "ei"
 # - setting this to 1 for handling Fuge-elements with dashes (Arbeits-) dash will 
@@ -720,7 +720,5 @@ PFX m ü -Ü/co ü
 
 # With "BREAK -" some wrong forms are accepted but that is needed for US-Wirtschaft etc.
 # So enabling this is the lesser evil. No perfect solution found so far...
-BREAK 2
+BREAK 1
 BREAK -
-BREAK .
-

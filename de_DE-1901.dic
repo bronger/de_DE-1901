@@ -101,7 +101,7 @@ Abakus/m
 Abarbeiten/SJm
 Abarbeitungs/hij
 Abart/Pm
-Abb.
+Abb
 Abbau/Smij
 Abbaubarkeit/Pm
 Abberufen/SJm
@@ -233,7 +233,7 @@ Abisolier/hij
 Abitur/Smij
 Abiturient/FPm
 Abiturienten/ghij
-Abk.
+Abk
 Abkant/hij
 Abkapseln/SJm
 Abkehr/m
@@ -335,7 +335,7 @@ Abrüsten/SJm
 Abrüstungs/hij
 Abruf/JSmij
 Abrunden/SJm
-Abs.
+Abs
 Absätze/Nm
 Absacker/NS
 Absage/Nm
@@ -858,7 +858,7 @@ Allerheiligen/S
 Allerwelts/hij
 Allesfresser/NSFm
 Alleskönner/NSFm
-Allg.
+Allg
 Allgäu/Sm
 Allgegenwart/Pm
 Allgemein/hij
@@ -1189,7 +1189,7 @@ Anlernling/EPSm
 Anliefern/SJm
 Anliegen/Sm
 Anlieger/NSFmgij
-Anm.
+Anm
 Anmärsche/Nm
 Anmarsch/TSm
 Anmaßen/SJm
@@ -1406,7 +1406,7 @@ Anwesen/Sm
 Anwesenheit/m
 Anwesenheits/hij
 Anwohner/NSFm
-Anz.
+Anz
 Anzahl/Jm
 Anzahlungs/hij
 Anzapfen/SJm
@@ -1784,7 +1784,7 @@ Aufklärer/NSFm
 Aufklärungs/hij
 Aufkleber/SNm
 Aufkommen/Sm
-Aufl.
+Aufl
 Auflade/hij
 Aufladen/SJm
 Auflader/NSFm
@@ -3055,7 +3055,7 @@ Besteigen/SJm
 Bestell/hij
 Bestellen/SJm
 Besteller/NSFm
-Bestellnr.
+Bestellnr
 Bestenliste/Nm
 Besteuern/SJm
 Besteuerungs/hij
@@ -3066,7 +3066,7 @@ Bestimmtheitsgrundsatz/Tm
 Bestimmungs/hij
 Bestleistung/Pm
 Bestmarke/Nm
-Bestnr.
+Bestnr
 Bestrafen/SJm
 Bestrahlen/SJm
 Bestrahlungs/hij
@@ -3766,7 +3766,7 @@ Brutalität/Pm
 Brutto/hij
 Bryan/S
 Bsp
-Bsp.
+Bsp
 Bücher/Nmij
 Bücherei/Pm
 Büchermachen/m
@@ -4117,7 +4117,7 @@ Choreograph/FPm
 Choreographie/Nm
 Chorist/PFm
 Chose/N
-Chr.
+Chr
 Christ/PFmij
 Christa/S
 Christall/dEPS
@@ -4676,7 +4676,7 @@ Devon/Sm
 Devotionalien/m
 Devotionalienhändler/NSFm
 Dextrose/m
-Dez.
+Dez
 Dezember/Smij
 Dezentralisation/m
 Dezentralisieren/SJm
@@ -4815,7 +4815,7 @@ Dioxin/SEPm
 Diphtherie/ijm
 Diphtheriebazille/Nm
 Diphthong/EPSm
-Dipl.
+Dipl
 Diplom/EPSmij
 Diplomand/PFm
 Diplomat/PFm
@@ -5010,7 +5010,7 @@ Dow
 Download/Sm
 Downsyndrom/SEPTm
 Dozent/PFm
-Dr.
+Dr
 Drähte/NMm
 Drängen/Sm
 Drache/Nm
@@ -6632,7 +6632,7 @@ Fäulnis/ijqm
 Fäustchen/Sm
 Fäuste/Nm
 Fäustling/EPSm
-Fa.
+Fa
 Fabel/Nm
 Fabelpferd/EPSTm
 Fabian/S
@@ -6783,7 +6783,7 @@ Faxgerät/EPSTm
 Faxnummer/Nm
 Fazit/EPSm
 Feature/Sm
-Feb.
+Feb
 Februar/Smij
 Fecht/hij
 Fechter/NSFm
@@ -7478,7 +7478,7 @@ Fristverlängerung/Pm
 Frisur/Pm
 Friteuse/Nm
 Fritz
-Frl.
+Frl
 Fröhlichkeit/m
 Frömmigkeit/m
 Frösche/Nm
@@ -10093,7 +10093,7 @@ Infrastruktur/Pm
 Infrastrukturminister/NSFm
 Infrastrukturprogramm/SEPm
 Infusion/Pm
-Ing.
+Ing
 Inganghaltung/m
 Ingangsetzen/SJm
 Ingeborg/S
@@ -10113,7 +10113,7 @@ Inhalation/Pm
 Inhalt/EPSTm
 Inhalteanbieter/Nm
 Inhalts/hij
-Inhaltsverz.
+Inhaltsverz
 Inhomogenität/Pm
 Initial/SPEm
 Initialisieren/SJm
@@ -10534,8 +10534,8 @@ Jesuit/Pm
 Jesuitenpater/m
 Jesuitenpriester/m
 Jet/Sm
-Jg.
-Jh.
+Jg
+Jh
 Jim/S
 Jörg/S
 Joachim/S
@@ -10612,7 +10612,7 @@ Jugendlichkeit/m
 Jugoslawe/FNm
 Jugoslawien/Sm
 Juist/Sm
-Jul.
+Jul
 Juli/Smij
 Julia/S
 Julius
@@ -13134,7 +13134,7 @@ Loyalitätsfrage/Nm
 Loyalitätskonflikt/SEPTm
 Loyalitätspflicht/Pm
 Loyalitätstelegramm/m
-Ltd.
+Ltd
 Lübeck/Sm
 Lübecker/NSFm
 Lücke/Nm
@@ -13964,7 +13964,7 @@ Military/m
 Miliz/Pm
 Milizionär/EPSm
 Milizoberst/EPSm
-Mill.
+Mill
 Millennium/Sm
 Milliardär/SEPFm
 Milliarde/Nm
@@ -14037,7 +14037,7 @@ Minustemperaturen/m
 Minuszeichen/Sm
 Minute/Nm
 Minuten/hij
-Mio.
+Mio
 Mips
 Miriam/S
 Misanthrop/Pm
@@ -14402,7 +14402,7 @@ Mozart/S
 Mozilla/Sm
 Mozzarella/Sm
 Mr
-Mrd.
+Mrd
 Mücke/Nm
 Mücken/hij
 Müdigkeit/m
@@ -14510,7 +14510,7 @@ Muttermal/ESPm
 Muttersprachler/SNFm
 Mutti/m
 Mux/m
-MwSt.
+MwSt
 MySQL
 Myriade/Nm
 Myrrhe/Nm
@@ -15151,7 +15151,7 @@ Notstands/hij
 Notwendigkeit/Pm
 Nougat/m
 Nougatcreme/m
-Nov.
+Nov
 Nova/m
 Novell/S
 Novelle/Nm
@@ -15160,7 +15160,7 @@ Novellist/PFm
 November/ijm
 Novität/Pm
 Novum/m
-Nr.
+Nr
 Nüchternheit/m
 Nürnberg/Sm
 Nürnberger/FNSm
@@ -15335,7 +15335,7 @@ Ohrläppchen/Sm
 Okkultismus/m
 Okkupant/Pm
 Okkupation/Pm
-Okt.
+Okt
 Oktaeder/NSm
 Oktalsystem/Sm
 Oktan/m
@@ -15954,7 +15954,7 @@ Permutation/Pm
 Peronist/PFm
 Peroxid/EPSm
 Perpetuum/m
-Pers.
+Pers
 Perser/FNSm
 Perserkrieg/m
 Perserteppich/Em
@@ -16045,7 +16045,7 @@ Pferch/m
 Pferd/EPSTMm
 Pferde/hij
 Pferdsprung/m
-Pfg.
+Pfg
 Pfiff/ESTm
 Pfiffigkeit/Pm
 Pfingst/hij
@@ -16772,7 +16772,7 @@ Produktiv/hij
 Produktivität/Pm
 Produktivitäts/hij
 Produzent/PFm
-Prof.
+Prof
 Profession/Pm
 Professionalisieren/SJm
 Professionalismus/m
@@ -18150,7 +18150,7 @@ Säule/NMm
 Säulen/hij
 Säumniszuschlag/STpm
 Säure/Nm
-Sa.
+Sa
 Saal/STm
 Saaleingang/Sm
 Saalfluchten/m
@@ -19435,7 +19435,7 @@ Separatistenbewegung/m
 Separator/SPm
 Sepp/S
 Seppel/m
-Sept.
+Sept
 September/Smij
 Septime/Nm
 Sequenz/Pm
@@ -20187,7 +20187,7 @@ Sputnik/S
 Srebrenica
 Srebrenicas/S
 Sri/m
-St.
+St
 StGB
 StPO
 StVO
@@ -20347,8 +20347,8 @@ Staupe/m
 Stausee/NSm
 Stauwerk/PSm
 Stavanger/m
-Stck.
-Std.
+Stck
+Std
 Steak/Sm
 Stech/hij
 Stecher/NSm
@@ -20751,7 +20751,7 @@ Stromeinspeisungseinheit/Pm
 Stromeinspeisungsstellen/m
 Stromreglerkarte/Nm
 Stromschnelle/Nm
-Stromvers.
+Stromvers
 Stromwandlungsmodul/m
 Stromwender/NSm
 Strontium/Sm
@@ -21326,7 +21326,7 @@ Teilstreb/Sm
 Teilungs/hij
 Teint/Sm
 Tektonik/m
-Tel.
+Tel
 Tele/hij
 Telefax/m
 Telefon/EPSmij
@@ -25270,7 +25270,7 @@ Zustand/STm
 Zustandekommen/Sm
 Zustands/hij
 Zustandsbit/Sm
-Zustandsnr.
+Zustandsnr
 Zustandsprozessor/Pm
 Zustell/hij
 Zustellen/SJm
@@ -26787,7 +26787,7 @@ abzehren/SJozm
 abzeichen/Sozm
 abzeichen/hke
 abzeichnen/DIXY
-abzgl.
+abzgl
 abzieh/hke
 abziehen/BDIX
 abzieher/SNozm
@@ -27475,7 +27475,7 @@ allesfresser/NSFozm
 alleskönner/NSFozm
 allezeit
 allfällig/A
-allg.
+allg
 allgäu/Sozm
 allgegenwärtig/A
 allgegenwart/Pozm
@@ -32757,7 +32757,7 @@ beruhigen/SJozm
 beruhigungs/hke
 beryll/ozm
 beryllium/Sozm
-bes.
+bes
 besänftigen/DIOXY
 besänftigen/SJozm
 besäße/Z
@@ -33115,7 +33115,7 @@ betonen/DIOXYW
 betonen/SJozm
 betonier/hke
 betonieren/DIOXY
-betr.
+betr
 beträchtlich/AU
 beträfe/Z
 beträgt/X
@@ -33342,7 +33342,7 @@ bewußtlos/A
 bewußtlosigkeit/ozm
 bewußtsein/Sozm
 bewußtseins/hke
-bez.
+bez
 bezahldienst/EPSTozm
 bezahlen/BDIOXY
 bezahlen/SJozm
@@ -34228,7 +34228,7 @@ brut/ozm
 brutal/ACU
 brutalität/Pozm
 brutto/ke
-bspw.
+bspw
 bübisch/A
 bücher/Nozm
 bücher/hke
@@ -34453,13 +34453,13 @@ byte/Sozm
 byzantiner/NSFozm
 byzantinisch/A
 byzanz/ozm
-bzgl.
-bzw.
+bzgl
+bzw
 c/n
 cDC/ozm
 cäsarismus/ozm
 cäsium/Sozm
-ca.
+ca
 cabaret/Sozm
 cabriolet/Sozm
 cache/Sozm
@@ -34523,7 +34523,7 @@ centronics/ozm
 cervelatwurst/ozm
 cetera
 ceylon/ozm
-cf.
+cf
 chalet/Sozm
 chamäleon/Sozm
 champagner/Sozm
@@ -36352,7 +36352,7 @@ drusen/ozm
 dschihadismus/ozm
 dschungel/SNozm
 dschungel/hke
-dto.
+dto
 du
 dübel/NSMozm
 düfte/Nozm
@@ -37719,7 +37719,7 @@ einschieben/SJozm
 einschießen/DIX
 einschiffen/DIXY
 einschiffen/SJozm
-einschl.
+einschl
 einschläfern/DIXY
 einschlägig/A
 einschlägt/X
@@ -38170,7 +38170,7 @@ eleganz/ozm
 elegie/Nozm
 elegisch/A
 elektiv/A
-elektr.
+elektr
 elektrifizieren/SJozm
 elektrik/ozm
 elektriker/NSFozm
@@ -38417,7 +38417,7 @@ engen/IY
 engerling/EPSozm
 engherzig/A
 engineering/Snozm
-engl.
+engl
 engländer/FNSozm
 england/Sozm
 england/hke
@@ -38798,7 +38798,7 @@ entsperr/hke
 entsperren/BDIOXYW
 entsperren/SJozm
 entspinnen/IXD
-entspr.
+entspr
 entsprächen/IX
 entsprängen/XI
 entsprach/Z
@@ -39718,7 +39718,7 @@ etappenweise/A
 etat/Sozm
 etat/hke
 etatmäßig/A
-etc.
+etc
 ethanol/Sozm
 ethernet/ozm
 ethernetadapter/ozm
@@ -39826,7 +39826,7 @@ evolution/ozm
 evolutionär/A
 evolutions/hke
 evolutionsbiologisch/A
-evtl.
+evtl
 ewig/AL
 ewiggestrig/A
 ewigkeit/Pozm
@@ -39955,7 +39955,7 @@ expressionistisch/A
 expressis
 expressiv/A
 exquisit/A
-ext.
+ext
 extension/Pozm
 extensiv/A
 exterieur/Sozm
@@ -40605,7 +40605,7 @@ feuerwerker/NSFozm
 feuilleton/Sozm
 feurig/AC
 fez/EPTozm
-ff.
+ff
 fiasko/Sozm
 fibel/Nozm
 fibrille/Nozm
@@ -41394,7 +41394,7 @@ frankreich/Sozm
 frankreichreise/ozm
 franse/Nozm
 fransentasche/Nozm
-franz.
+franz
 franziskaner/NSFozm
 franziskanerorden/Sozm
 französin/Fozm
@@ -42149,7 +42149,7 @@ gearbeitet/A
 geargwöhnt
 geartet/A
 geatmet/A
-geb.
+geb
 gebäck/SEPozm
 gebälk/Sozm
 gebändigt/A
@@ -43024,7 +43024,7 @@ gelüsten/DIXY
 gelump/SETozm
 gelungen/AC
 gelyncht/A
-gem.
+gem
 gemächer/Nozm
 gemächlich/A
 gemächlichkeit/ozm
@@ -44477,7 +44477,7 @@ gezwitschert/A
 gezwungen/AU
 gezwungenermaßen
 gezwungenheit/ozm
-ggf.
+ggf
 ghana/Sozm
 ghanaer/NSFozm
 ghanaisch/A
@@ -44992,7 +44992,7 @@ grenzprovokatorisch/A
 grenzüberschreitend/A
 grenzwertig/AC
 gretchenfrage/Nozm
-griech.
+griech
 grieche/NFozm
 griechenland/Sozm
 griechenlandreise/Nozm
@@ -47720,7 +47720,7 @@ hotellerie/ozm
 hotelmäßiger
 hotline/Sozm
 hotspot/Sozm
-hrsg.
+hrsg
 http
 hübe/Nozm
 hüben
@@ -48132,7 +48132,7 @@ inbrünstig/A
 inbrunst/ozm
 inbusschlüssel/SNozm
 inbusschraube/Nozm
-incl.
+incl
 indefinit/A
 indefinitpronomen/Sozm
 indefinitpronomina/ozm
@@ -48341,7 +48341,7 @@ inkassovollmacht/Pozm
 inkassowechsel/Nozm
 inkaufnahme/ozm
 inkavergewaltigung/ozm
-inkl.
+inkl
 inklination/Pozm
 inklinometer/NSozm
 inklinometeranzeige/ozm
@@ -48434,7 +48434,7 @@ inquisitor/PSFozm
 inquisitorisch/A
 insasse/NFozm
 insassenversicherung/ozm
-insbes.
+insbes
 insbesondere
 inschrift/Pozm
 insekt/PTSozm
@@ -48457,7 +48457,7 @@ insertion/Pozm
 insertionspreise/ozm
 insertionsunterlage/Nozm
 insgeheim/A
-insges.
+insges
 insgesamt
 insider/NSFozm
 insider/ghke
@@ -49000,9 +49000,9 @@ jetzt
 jeweilig/A
 jeweils
 jiddisch/A
-jmd.
-jmdm.
-jmdn.
+jmd
+jmdm
+jmdn
 job/Sozm
 job/hke
 jobben/DIXY
@@ -52538,7 +52538,7 @@ lexikalisieren/DIOXYW
 lexikograph/Pozm
 lexikographisch/A
 lexikon/Sozm
-lfd.
+lfd
 liaison/Sozm
 liane/Nozm
 libanese/NFozm
@@ -52986,7 +52986,7 @@ loyalitätsfrage/Nozm
 loyalitätskonflikt/SEPTozm
 loyalitätspflicht/Pozm
 loyalitätstelegramm/ozm
-lt.
+lt
 lübeck/Sozm
 lübecker/NSFozm
 lücke/Nozm
@@ -53678,7 +53678,7 @@ mausoleum/ozm
 maut/hke
 maut/ozm
 mautpflichtig/A
-max.
+max
 maxima/ozm
 maximal/Ake
 maximalwerttrigger/SNozm
@@ -53707,7 +53707,7 @@ mechanistisch/A
 meckern/DIXYW
 mecklenburg/Sozm
 mecklenburgisch/A
-med.
+med
 medaille/Nozm
 medaillen/hke
 medaillon/Sozm
@@ -54156,7 +54156,7 @@ mimik/ozm
 mimikry/ozm
 mimisch/A
 mimose/Nozm
-min.
+min
 minarett/ozm
 minden/Sozm
 minder/A
@@ -57698,7 +57698,7 @@ phasenweise/A
 phenol/EPSozm
 phenolchemie/ozm
 phi
-phil.
+phil
 philadelphia/Sozm
 philanthrop/PFozm
 philanthropisch/AC
@@ -60083,7 +60083,7 @@ resorbieren/BDIOXY
 resozialisieren/BDIOXYW
 resozialisieren/SJozm
 resozialisierungsprogramm/EPSozm
-resp.
+resp
 respekt/STozm
 respektabel/AC
 respektieren/DIOXY
@@ -62673,7 +62673,7 @@ seitig/A
 seitlich/A
 seitwärts
 seitwärtsbewegung/ozm
-sek.
+sek
 sekante/Nozm
 sekret/Pozm
 sekretär/EFPSozm
@@ -68899,7 +68899,7 @@ usenet/ozm
 user/SNFozm
 userport/ozm
 usurpator/SFPozm
-usw.
+usw
 utensil/Sozm
 utensilien/ozm
 utility/Sozm
@@ -69541,7 +69541,7 @@ vergilbt/AC
 vergißmeinnicht/TSEPozm
 vergißt/W
 vergittern/DIOXY
-vergl.
+vergl
 verglasen/DIOXY
 verglasen/SJozm
 vergleich/EPSTozm
@@ -70749,7 +70749,7 @@ vetorecht/EPSozm
 vetter/NSozm
 vetternwirtschaft/ozm
 vexier/hke
-vgl.
+vgl
 via
 viadukt/EPTSozm
 viagra/ozm
@@ -71392,7 +71392,7 @@ vorkommnis/Qqozm
 vorkonfigurieren/DIOXY
 vorkoster/NSFozm
 vorkriegs/hke
-vorl.
+vorl
 vorlädt/X
 vorlägen/IX
 vorläufig/A
@@ -71420,7 +71420,7 @@ vorliegen/Sozm
 vorliest
 vorlügen/DIX
 vorm
-vorm.
+vorm
 vormärz/Tozm
 vormachen/DIXY
 vormalig/A
@@ -71615,7 +71615,7 @@ votieren/DIXYW
 votum/Sozm
 voyeur/SEPFozm
 voyeurismus/ozm
-vs.
+vs
 vulgär/AC
 vulgärapostel/NSozm
 vulgärsprache/ozm
@@ -72625,7 +72625,7 @@ wettsegeln/Sozm
 wetz/hke
 wetzen/DIXYW
 wetzstahl/EPSozm
-wg.
+wg
 whirlpool/Sozm
 whisky/Sozm
 whistleblower/SNFozm
@@ -74675,7 +74675,7 @@ zuruf/EPSozm
 zurufen/DIX
 zurverfügungstellen/SJozm
 zurzeit
-zus.
+zus
 zusätze/Nozm
 zusätzlich/A
 zusage/Nozm
@@ -75374,4 +75374,4 @@ zynismus/ozm
 zypern/Sozm
 zypresse/Nozm
 zyste/Nozm
-zzgl.
+zzgl
