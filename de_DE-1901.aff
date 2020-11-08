@@ -340,19 +340,31 @@ SFX J   el      lung       el
 SFX J   el      lungen     el
 
 
-SFX B N 12
+SFX B N 24
 SFX B   n       bar        e[lr]n
 SFX B   n       bare       e[lr]n
 SFX B   n       baren      e[lr]n
 SFX B   n       barer      e[lr]n
 SFX B   n       bares      e[lr]n
 SFX B   n       barem      e[lr]n
-SFX B   en      bar        en
-SFX B   en      bare       en
-SFX B   en      baren      en
-SFX B   en      barer      en
-SFX B   en      bares      en
-SFX B   en      barem      en
+SFX B   en      bar        [^s]en
+SFX B   en      bar        [^s]sen
+SFX B   ssen    ßbar       ssen
+SFX B   en      bare       [^s]en
+SFX B   en      bare       [^s]sen
+SFX B   ssen    ßbare      ssen
+SFX B   en      baren      [^s]en
+SFX B   en      baren      [^s]sen
+SFX B   ssen    ßbaren     ssen
+SFX B   en      barer      [^s]en
+SFX B   en      barer      [^s]sen
+SFX B   ssen    ßbarer     ssen
+SFX B   en      bares      [^s]en
+SFX B   en      bares      [^s]sen
+SFX B   ssen    ßbares     ssen
+SFX B   en      barem      [^s]en
+SFX B   en      barem      [^s]sen
+SFX B   ssen    ßbarem     ssen
 
 
 SFX D Y 6
