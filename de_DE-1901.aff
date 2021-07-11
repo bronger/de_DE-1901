@@ -243,8 +243,9 @@ SFX C   erig    rigstem    [^hi]erig
 SFX C   erig    rigstes    [^hi]erig
 
 
-SFX E Y 2
+SFX E Y 3
 SFX E   ß       sse        ß
+SFX E   0       e          [aiou]ß
 SFX E   0       e          [^ß]
 
 
@@ -259,8 +260,9 @@ SFX N Y 1
 SFX N   0       n          .
 
 
-SFX P Y 2
+SFX P Y 3
 SFX P   ß       ssen       ß
+SFX P   0       en         [aiou]ß
 SFX P   0       en         [^ß]
 
 
@@ -321,7 +323,8 @@ SFX Q   0       ses       s
 #SFX Q   0       sen       s
 
 
-SFX T Y 2
+SFX T Y 3
+SFX T   0       es         [aiou]ß
 SFX T   0       es         [^ß]
 SFX T   ß       sses       ß
 
