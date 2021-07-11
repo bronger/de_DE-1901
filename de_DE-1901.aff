@@ -321,8 +321,9 @@ SFX Q   0       ses       s
 #SFX Q   0       sen       s
 
 
-SFX T Y 1
+SFX T Y 2
 SFX T   0       es         [^ß]
+SFX T   ß       sses       ß
 
 
 SFX J Y 12
